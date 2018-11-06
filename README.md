@@ -1,9 +1,9 @@
 # AES
 
-###### Bao Nhi Thai, Lauren Doan, Priya Patel, Vaishali Jayaraman
+This implementation of the Advanced Encryption Standard (AES) for Encryption and Decryption 
+in Java closely follows the [AES Standard](https://nvlpubs.nist.gov/nistpubs/fips/nist.fips.197.pdf).
 
-Our implementation of the Advanced Encryption Standard (AES) for Encryption and Decryption 
-in Java closely followed the [AES Standard](https://nvlpubs.nist.gov/nistpubs/fips/nist.fips.197.pdf).
+###### TEAM - Bao Nhi Thai, Lauren Doan, Priya Patel, Vaishali Jayaraman
 
 To compile the program:
 
